@@ -1,0 +1,8 @@
+{
+  "name": "Google Search Tools Opener",
+  "appid": "bijcjigmnmdejhndhjppifdaknmffbne",
+  "source_dir": "src",
+  "pem_file": "google-search-tools-opener.pem",
+  "crx_file": "output/google-search-tools-opener.crx",
+  "zip_file": "output/google-search-tools-opener.zip"
+}

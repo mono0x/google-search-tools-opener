@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Google Search Tools Opener",
+  "version": "0.0.1",
+  "description": "Automatically open Search tools on Google.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.google.co.jp/search?*",
+        "*://www.google.com/search?*"
+      ],
+      "js": [ "content.js" ],
+      "run_at": "document_end"
+    }
+  ]
+}
