@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Google Search Tools Opener",
+  "name": "Search Tools Opener for Google™",
   "version": "0.0.1",
   "description": "Automatically open Search tools on Google.",
   "content_scripts": [
